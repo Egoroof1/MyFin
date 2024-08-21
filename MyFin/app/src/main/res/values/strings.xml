@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyFin</string>
+    <string name="text_balans">Баланс</string>
+    <string name="var_balans">0 ₽</string>
+    <string name="text_rashod">Расходы</string>
+    <string name="var_rashod">0 ₽</string>
+    <string name="text_budjet">Бюджет</string>
+    <string name="var_budjet">0 ₽</string>
 </resources>
